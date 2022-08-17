@@ -12,7 +12,7 @@ const MainLayout: FC<MainLayoutProps> = ({ children }) => {
     <div className={styles.container}>
       <Head>
         <title>Alejandro Palacios - Alpacorp - Home</title>
-        <meta name="description" content="Home Page" />
+        <meta name="description" content="Home Pages" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
